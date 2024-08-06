@@ -1,0 +1,10 @@
+a=3
+print(type(a))
+b=10.0
+print(type(b))
+c=a+b
+print(c)
+print(type(c))
+d=a*b
+print(d)
+print(type(d))
