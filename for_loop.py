@@ -44,6 +44,7 @@ for x in fruits:
     continue
   print(x)
 
+<<<<<<< HEAD
 adj = ["red", "big", "tasty"]
 fruits = ["apple", "banana", "cherry"]
 
@@ -51,3 +52,5 @@ for x in adj:
   for y in fruits:
     print(x, y)
 >>>>>>> 57f7106 (for loop)
+=======
+>>>>>>> 5d6ca61 (Initial commit)
